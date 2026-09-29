@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
