@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
 ## Bit Manipulation
 |  |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
