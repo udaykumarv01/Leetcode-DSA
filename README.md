@@ -39,10 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 # LeetCode Topics
 
-## Math
-|  |
-| ------- |
-| [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
+
 
 
 
@@ -105,4 +102,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
 <!---LeetCode Topics End-->
