@@ -63,10 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+
 
 
 
@@ -87,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
 | [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -102,9 +101,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 ## Math
 |  |
 | ------- |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
