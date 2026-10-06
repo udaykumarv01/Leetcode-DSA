@@ -55,10 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 
-## Simulation
-|  |
-| ------- |
-| [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+
 
 
 
@@ -80,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
 | [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
 ## Dynamic Programming
@@ -109,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -123,4 +122,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
