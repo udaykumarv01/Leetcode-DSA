@@ -67,10 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 
 
-## Hash Table
-|  |
-| ------- |
-| [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
+
 
 ## Counting
 |  |
@@ -119,4 +116,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+## Hash Table
+|  |
+| ------- |
+| [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
 <!---LeetCode Topics End-->
