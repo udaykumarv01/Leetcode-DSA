@@ -50,10 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 
 
-## Matrix
-|  |
-| ------- |
-| [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+
 
 
 
@@ -117,14 +114,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
+| [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3692-majority-frequency-characters](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3692-majority-frequency-characters) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
