@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
