@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1360-number-of-days-between-two-dates](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2390-removing-stars-from-a-string](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1360-number-of-days-between-two-dates](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1360-number-of-days-between-two-dates) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3280-convert-date-to-binary](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3280-convert-date-to-binary) |
 ## Stack
