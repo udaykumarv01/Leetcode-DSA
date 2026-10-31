@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0032-longest-valid-parentheses) |
+| [3665-twisted-mirror-path-count](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/1207-unique-number-of-occurrences) |
 | [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [3665-twisted-mirror-path-count](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/0566-reshape-the-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/2352-equal-row-and-column-pairs) |
+| [3665-twisted-mirror-path-count](https://github.com/udaykumarv01/Leetcode-DSA/tree/master/3665-twisted-mirror-path-count) |
 ## Breadth-First Search
 |  |
 | ------- |
